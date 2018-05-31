@@ -1,7 +1,7 @@
 # object-tracking-by_color
 A openCV implementation to track the an object by color.
 
-# Dependencies
+## Dependencies
  - OpenCV
  - Numpy
 ## To run in your machine
